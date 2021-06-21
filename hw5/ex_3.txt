@@ -1,0 +1,10 @@
+Ivanov 23000
+Petrov 10403
+Sidorov 32000
+Andreev 60000
+Makarov 14949
+Soifer 14596
+Navalny 56000
+Mosotovoi 16770
+Dzuba 44000
+Akinfeev 45000

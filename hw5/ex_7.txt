@@ -1,0 +1,7 @@
+roga  ooo 15000 5000
+kopita  ooo 150000 5000
+vektor  ooo 15000 9000
+pivo  ooo 12000 5000
+vodka  ooo 15000 8000
+magnit  ooo 35000 12000
+pyaterochka  ooo 64000 54000
